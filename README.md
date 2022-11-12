@@ -31,3 +31,5 @@ Classes:
 7. Sneaker
 8. Bag
 9. Ankle Boot
+
+### Accuracy: 90%
