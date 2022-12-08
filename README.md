@@ -1,3 +1,5 @@
+I built 2 machine learning models, using the mnist datasets, the regular and the fashion one.
+
 ### Libraries
 
 The project requires the following Python libraries installed:
@@ -19,7 +21,7 @@ I used the keras mnist, and fashion_mnist dataset
 
 ### Results
 
-# 1. MNIST:
+## 1. MNIST:
 
   Classes:
   
@@ -33,9 +35,9 @@ I used the keras mnist, and fashion_mnist dataset
     7. 7
     8. 8
     9. 9
-**Accuracy:** %
+**Accuracy:** 98.9%
     
-# 2. Fashion MNIST:
+## 2. Fashion MNIST:
 
   Classes:
   
