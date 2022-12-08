@@ -13,7 +13,7 @@ The project requires the following Python libraries installed:
 
 ### Code
 
-Code is provided in the `Fashion MNIST.ipynb` and `MNIST.ipynb` notebook file
+Code is provided in the `Fashion MNIST.ipynb` and `MNIST.ipynb` notebook files
 
 ### Data
 
