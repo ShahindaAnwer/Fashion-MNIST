@@ -1,4 +1,4 @@
-I built 2 machine learning models, using the mnist datasets, the regular and the fashion one.
+I built 2 machine learning models, using the mnist datasets, the MNIST Handwritten Digit Classification and the Zalando's article's fashion MNIST. Each dataset consists of 60,000 training images and 10,000 test images, each being a 28x28 grayscale image, associated with a label from 10 classes.
 
 ### Libraries
 
