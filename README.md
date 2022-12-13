@@ -35,7 +35,8 @@ I used the keras mnist, and fashion_mnist dataset
     7. 7
     8. 8
     9. 9
-**Accuracy:** 98.9%
+**Train Accuracy:** 99.0%
+**Test Accuracy:** 97.3%
     
 ## 2. Fashion MNIST:
 
@@ -52,4 +53,5 @@ I used the keras mnist, and fashion_mnist dataset
     8. Bag
     9. Ankle Boot
 
-**Accuracy:** 90%
+**Train Accuracy:** 97.4%
+**Test Accuracy:** 90.7%
