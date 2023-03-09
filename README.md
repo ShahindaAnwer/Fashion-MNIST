@@ -1,4 +1,7 @@
-I built 2 machine learning models, using the mnist datasets, the MNIST Handwritten Digit Classification and the Zalando's article's fashion MNIST. Each dataset consists of 60,000 training images and 10,000 test images, each being a 28x28 grayscale image, associated with a label from 10 classes.
+# MNIST
+
+The first image classification, CNN, project a beginner should try is the mnist duo. One using handwritten digits and the other using clothing items. Each dataset consists of 60,000 training images and 10,000 test images, each being a 28x28 grayscale image, associated with a label from 10 classes.
+
 
 ### Libraries
 
@@ -10,14 +13,6 @@ The project requires the following Python libraries installed:
 - [Numpy](https://numpy.org/)
 - [seaborn](https://seaborn.pydata.org/)
 - [cv2](https://pillow.readthedocs.io/en/stable/)
-
-### Code
-
-Code is provided in the `Fashion MNIST.ipynb` and `MNIST.ipynb` notebook files
-
-### Data
-
-I used the keras mnist, and fashion_mnist dataset
 
 ### Results
 
