@@ -30,7 +30,9 @@ The project requires the following Python libraries installed:
     7. 7
     8. 8
     9. 9
+    
 **Train Accuracy:** 99.0%
+
 **Test Accuracy:** 97.3%
     
 ## 2. Fashion MNIST:
@@ -49,4 +51,5 @@ The project requires the following Python libraries installed:
     9. Ankle Boot
 
 **Train Accuracy:** 97.4%
+
 **Test Accuracy:** 90.7%
