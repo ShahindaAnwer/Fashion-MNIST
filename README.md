@@ -3,7 +3,7 @@
 The first image classification, CNN, project a beginner should try is the mnist duo. One using handwritten digits and the other using clothing items. Each dataset consists of 60,000 training images and 10,000 test images, each being a 28x28 grayscale image, associated with a label from 10 classes.
 
 
-### Libraries
+## Libraries
 
 The project requires the following Python libraries installed:
 
@@ -14,9 +14,9 @@ The project requires the following Python libraries installed:
 - [seaborn](https://seaborn.pydata.org/)
 - [cv2](https://pillow.readthedocs.io/en/stable/)
 
-### Results
+## Results
 
-## 1. MNIST:
+*1. MNIST:*
 
   Classes:
   
@@ -35,7 +35,7 @@ The project requires the following Python libraries installed:
 
 **Test Accuracy:** 97.3%
     
-## 2. Fashion MNIST:
+*2. Fashion MNIST:*
 
   Classes:
   
